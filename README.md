@@ -7,7 +7,7 @@
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Python, JavaScript, HTML, CSS, SQL  
+**Languages:** Python, JavaScript, HTML, CSS, SQL, PHP  
 **Frameworks & Libraries:** Django, Flask, Streamlit, React Native, Node.js, Express  
 **Databases:** PostgreSQL, MongoDB, SQLite  
 **Tools:** Git, VS Code, Postman, Docker  
